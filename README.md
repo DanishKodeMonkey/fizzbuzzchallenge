@@ -104,7 +104,7 @@ let answer = parseInt(prompt("Please enter a number to FizzBuzz up to"))
 
 ## Alright! We got a window prompt when the page loads!
 
-![prompt window](./images/prompt.png)
+![prompt window](./images/prompt2.png)
 
 ## Step 2. A for loop itterates through the numbers 1 to the users input
 
