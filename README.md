@@ -204,7 +204,7 @@ By using a solid problem solving routing we managed understand a problem, break 
 
 ### Try it out!
 
-The whole program was just cramped into a script tag of the index page of this project, check it out [here](danishkodemonkey.github.io/fizzbuzzchallenge)
+The whole program was just cramped into a script tag of the index page of this project, check it out [here](https://danishkodemonkey.github.io/fizzbuzzchallenge/)
 and see the full solution with commentation on the index.html of the repo
 
 ## Thank you!
